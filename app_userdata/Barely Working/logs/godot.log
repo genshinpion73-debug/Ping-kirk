@@ -1,0 +1,7 @@
+Godot Engine v3.5.3.stable.official.6c814135b - https://godotengine.org
+OpenGL ES 2.0 Renderer: NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2
+ 
+WARNING: No small icon found, reusing 256x256 @32768 icon!
+   at: set_native_icon (platform/windows/os_windows.cpp:3091) - No small icon found, reusing 256x256 @32768 icon!
+Could not load bw_settings.cfg
+Could not load save file 1
