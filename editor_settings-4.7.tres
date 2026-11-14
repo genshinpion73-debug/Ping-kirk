@@ -327,7 +327,9 @@ _default_feature_profile = ""
 _script_setup_templates_dictionary = {
 "AnimatedSprite2D": "0NodeDefault",
 "CharacterBody2D": "0CharacterBody2DBasic Movement",
-"Node2D": "0NodeDefault"
+"Node2D": "0NodeDefault",
+"RigidBody2D": "0NodeDefault",
+"Sprite2D": "0NodeDefault"
 }
 _script_setup_use_script_templates = true
 _use_favorites_root_selection = false
